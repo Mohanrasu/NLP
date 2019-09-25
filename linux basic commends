@@ -1,8 +1,0 @@
-git version: will print current git version
-     git  add *
-    git commit -m “Your messages”
-    git push origin <branch Name>
-    
-    git checkout -b “Mohan”
-    Git branch
-
